@@ -27,3 +27,13 @@ Book a reservation
 Restaurant infomation page
 
 <img src="https://github.com/cd155/Little-Lemon-Restaurant/assets/16947266/5988f5b1-92e3-4539-a2ed-83329f0e003e" alt="" width="600"/>
+
+# How to run this app
+Run the app in the local hoster
+
+`cd littlelemon` make sure you are in the project folder
+```bash
+python manage.py runserver
+```
+
+(If you use nixos, you can use `nix-shell shell.nix`)
