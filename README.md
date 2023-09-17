@@ -6,24 +6,24 @@ See the live demo at [https://littlelemon.softifacts.com](https://littlelemon.so
 ## Home page
 Customized Home page
 
-<img src="https://github.com/cd155/Little-Lemon-Restaurant/assets/16947266/2597f2b8-cd84-46e9-bf5b-6d622bf6e44e" alt="" width="600"/>
+<img src="https://github.com/cd155/Little-Lemon-Restaurant/assets/16947266/f166026b-a31d-4ac6-8bef-f030b957c2fe" alt="" width="600"/>
 
 ## Menu
 List of items
 
-<img src="https://github.com/cd155/Little-Lemon-Restaurant/assets/16947266/b51a7b6f-51db-4bd0-8725-fdfcb86a43fa" alt="" width="600"/>
+<img src="https://github.com/cd155/Little-Lemon-Restaurant/assets/16947266/c8dca8e9-0978-4ec1-8388-7258ec8314ab" alt="" width="600"/>
 
 ## Menu Items
 Menu item with name, description, price and image
 
-<img src="https://github.com/cd155/Little-Lemon-Restaurant/assets/16947266/d9982bcb-bf38-4122-b48f-79569a3c5f60" alt="" width="600"/>
+<img src="https://github.com/cd155/Little-Lemon-Restaurant/assets/16947266/9c3577b7-8568-4787-be00-2854799b6aa1" alt="" width="600"/>
 
 ## Booking
 Book a reservation
 
-<img src="https://github.com/cd155/Little-Lemon-Restaurant/assets/16947266/1f383bd6-2b7e-453f-aba2-0115aec5943d" alt="" width="600"/>
+<img src="https://github.com/cd155/Little-Lemon-Restaurant/assets/16947266/8d847979-24a2-4056-ae52-3b1cc373a212" alt="" width="600"/>
 
 ## About
 Restaurant infomation page
 
-<img src="https://github.com/cd155/Little-Lemon-Restaurant/assets/16947266/18b3dc68-802a-4aed-80f9-730bf97c7157" alt="" width="600"/>
+<img src="https://github.com/cd155/Little-Lemon-Restaurant/assets/16947266/5988f5b1-92e3-4539-a2ed-83329f0e003e" alt="" width="600"/>
